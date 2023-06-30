@@ -4,7 +4,16 @@
     <span>Luis Pontes</span>
 </h1>
 
-<p align="justify">Sou o Luís, um especialista em TI. Com formação Eletrônica e cursando ADS, Busco por conexões pra combinar minha paixão por Eletrônica e Software.
+<p align="justify">Olá, sou Luís, um especialista em Tecnologia da Informação (TI) com sólida experiência técnica de campo em instituições bancárias, atuando em ambientes de alta segurança e grandes valores nos últimos 12 anos.
+<br>
+Minha formação inclui Eletrônica com ênfase em Automação (com registro no CFT) e estou cursando Análise e Desenvolvimento de Software. Tenho excelente conhecimento em Python e estou em processo de certificações AWS Cloud para criar e administrar soluções na nuvem.
+<br>
+Ao longo da minha carreira, enfrentei desafios significativos, como atender a clientes distantes, lidar com demandas exigentes e trabalhar de forma remota para fornecer suporte técnico ágil e eficaz. E Essas experiências me ensinaram a ter um controle moral impecável, bem como a capacidade de trabalhar sob pressão e me adaptar a diferentes situações de forma autogerenciada.
+<br>
+Busco constantemente por oportunidades que me permitam combinar minha paixão por Eletrônica, Automação e Desenvolvimento de Software, Mas estou disposto a contribuir para projetos inovadores e desafiadores. 
+<br>
+Se você está interessado em colaborações ou sinergias na área de TI, estou aberto a novas conexões. Vamos juntos construir soluções inovadoras, impulsionar o progresso e alcançar resultados significativos.
+Obrigado por visitar o meu perfil!
 <br>
 
 ### Conecte-se comigo:
