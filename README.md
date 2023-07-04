@@ -1,13 +1,11 @@
 <h1>
     <a href="https://www.dio.me/">
     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span>Luis Pontes</span>
+    <strong style="color:#00BFFF">Luis Pontes</strong>
 </h1>
 <img align="right" width="380px" src="https://github.com/CientistaPY/CientistaPY/blob/main/PROGRAMMER-removebg-preview.png?raw=true"></a>
 <br>
-<p align="justify">Olá, sou Luís, um especialista em Tecnologia da Informação (TI) com sólida experiência técnica de campo em instituições bancárias, atuando em ambientes de alta segurança e grandes valores nos últimos 12 anos.
-<br>
-Olá, sou Luís, um especialista em Tecnologia da Informação (TI) com sólida experiência técnica em instituições bancárias, atuando em ambientes de alta segurança e grandes valores nos últimos 12 anos.
+<p align="justify">Olá, sou Luís, um especialista em Tecnologia da Informação (TI) com sólida experiência técnica em instituições bancárias, atuando em ambientes de alta segurança e grandes valores nos últimos 12 anos.
 <br>
 Minha formação acadêmica inclui Eletrônica com ênfase em Automação (com registro no CFT) e o curso de Análise e Desenvolvimento de Software (em andamento). Tenho proficiência em Python e estou em processos de certificações AWS Cloud.
 <br>
