@@ -3,32 +3,33 @@
     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span>Luis Pontes</span>
 </h1>
-
+<img align="right" width="380px" src="https://github.com/CientistaPY/CientistaPY/blob/main/PROGRAMMER-removebg-preview.png?raw=true"></a>
+<br>
 <p align="justify">Olá, sou Luís, um especialista em Tecnologia da Informação (TI) com sólida experiência técnica de campo em instituições bancárias, atuando em ambientes de alta segurança e grandes valores nos últimos 12 anos.
 <br>
-Minha formação inclui Eletrônica com ênfase em Automação (com registro no CFT) e estou cursando Análise e Desenvolvimento de Software. Tenho excelente conhecimento em Python e estou em processo de certificações AWS Cloud para criar e administrar soluções na nuvem.
+Olá, sou Luís, um especialista em Tecnologia da Informação (TI) com sólida experiência técnica em instituições bancárias, atuando em ambientes de alta segurança e grandes valores nos últimos 12 anos.
 <br>
-Ao longo da minha carreira, enfrentei desafios significativos, como atender a clientes distantes, lidar com demandas exigentes e trabalhar de forma remota para fornecer suporte técnico ágil e eficaz. E Essas experiências me ensinaram a ter um controle moral impecável, bem como a capacidade de trabalhar sob pressão e me adaptar a diferentes situações de forma autogerenciada.
+Minha formação acadêmica inclui Eletrônica com ênfase em Automação (com registro no CFT) e o curso de Análise e Desenvolvimento de Software (em andamento). Tenho proficiência em Python e estou em processos de certificações AWS Cloud.
 <br>
-Busco constantemente por oportunidades que me permitam combinar minha paixão por Eletrônica, Automação e Desenvolvimento de Software, Mas estou disposto a contribuir para projetos inovadores e desafiadores. 
+Busco por oportunidades que me permitam combinar minha paixão por Eletrônica, Automação e Software. Caso estejas interessado em colaborações ou sinergias na área de TI, estou aberto a novas conexões. 
 <br>
-Se você está interessado em colaborações ou sinergias na área de TI, estou aberto a novas conexões. Vamos juntos construir soluções inovadoras, impulsionar o progresso e alcançar resultados significativos.
 Obrigado por visitar o meu perfil!
 <br>
 
 ### Conecte-se comigo:
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/MAILTOLUISCARLOS/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:mailtoluiscarlos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/luís-pontes-289645137)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cientista.py/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00BFFF&color:FFF)](mailto:mailtoluiscarlos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&color:FFF)](https://www.linkedin.com/in/luís-pontes-289645137)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00BFFF&color:FFF)](https://www.instagram.com/cientista.py/)
+[![Dio](https://img.shields.io/badge/-Dio-000?style=for-the-badge&logo=dtube&logoColor=00BFFF&color:FFF)](https://web.dio.me/users/MAILTOLUISCARLOS/)
+
+
 
 
 ### Habilidades:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=30A3DC)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=00BFFF&color:FFF)](https://www.python.org/)
+[![AWS](https://img.shields.io/badge/AWS_Cloud-000?style=for-the-badge&logo=amazon-aws&&logoColor=00BFFF&color:FFF)](http://aws.amazon.com/)
+[![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&&logoColor=00BFFF&color:FFF)](https://cplusplus.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=00BFFF&color:FFF)](https://docs.github.com/)
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CientistaPy&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
@@ -69,19 +70,7 @@ Sou o Luís, um em especialista TI. Com formação Eletrônica e cursando ADS. B
 
 
 
-### Conecte-se comigo:
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/MAILTOLUISCARLOS/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:mailtoluiscarlos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/luís-pontes-289645137)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cientista.py/)
 
-
-### Habilidades:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=30A3DC)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CientistaPy&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
