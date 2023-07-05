@@ -37,12 +37,7 @@ Obrigado por visitar o meu perfil!
 <br>
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CientistaPy&theme=transparent&bg_color=D2B48C&border_color=228B22&show_icons=true&icon_color=228B22&title_color=228B22&text_color=696969)
-<br>
-
-### Meus Principais Desafios de Projeto DIO
-[![Repo DIO Versionamento de Código com Git e GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=D2B48C&border_color=228B22&show_icons=true&icon_color=228B22&title_color=228B22&text_color=696969)](https://github.com/CientistaPY/dio-curso-git-github.git)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=D2B48C&border_color=228B22&show_icons=true&icon_color=228B22&title_color=228B22&text_color=696969)](https://github.com/digitalinnovationone/roadmaps)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CientistaPy&theme=transparent&bg_color=D2B48C&border_color=228B22&show_icons=true&icon_color=228B22&title_color=228B22&text_color=696969)
 <br>
 
 ### Meus Principais Artigos na DIO
