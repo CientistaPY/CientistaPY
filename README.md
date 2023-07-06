@@ -20,26 +20,26 @@ Obrigado por visitar o meu perfil!
 
 
 ### Conecte-se comigo:
-[![E-mail](https://img.shields.io/badge/-Email-D2B48C?style=for-the-badge&logo=gmail&logoColor=228B22&color:696969)](mailto:mailtoluiscarlos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-D2B48C?style=for-the-badge&logo=linkedin&logoColor=228B22&color:696969)](https://www.linkedin.com/in/luís-pontes-289645137)
-[![Instagram](https://img.shields.io/badge/-Instagram-D2B48C?style=for-the-badge&logo=instagram&logoColor=228B22&color:696969)](https://www.instagram.com/cientista.py/)
-[![Dio](https://img.shields.io/badge/-Dio-D2B48C?style=for-the-badge&logo=dtube&logoColor=228B22&color:696969)](https://web.dio.me/users/MAILTOLUISCARLOS/)
+[![E-mail](https://img.shields.io/badge/-Email-416449?style=for-the-badge&logo=gmail&logoColor=D2B48C&color:D2B48C)](mailto:mailtoluiscarlos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-416449?style=for-the-badge&logo=linkedin&logoColor=D2B48C&color:D2B48C)](https://www.linkedin.com/in/luís-pontes-289645137)
+[![Instagram](https://img.shields.io/badge/-Instagram-416449?style=for-the-badge&logo=instagram&logoColor=D2B48C&color:D2B48C)](https://www.instagram.com/cientista.py/)
+[![Dio](https://img.shields.io/badge/-Dio-416449?style=for-the-badge&logo=dtube&logoColor=D2B48C&color:D2B48C)](https://web.dio.me/users/MAILTOLUISCARLOS/)
 <br>
 
 ### Habilidades:
-[![Python](https://img.shields.io/badge/python-D2B48C?style=for-the-badge&logo=python&logoColor=228B22&color:696969)](https://www.python.org/)
-[![AWS](https://img.shields.io/badge/AWS_Cloud-D2B48C?style=for-the-badge&logo=amazon-aws&&logoColor=228B22&color:696969)](http://aws.amazon.com/)
-[![C++](https://img.shields.io/badge/C++-D2B48C?style=for-the-badge&logo=c%2B%2B&&logoColor=228B22&color:696969)](https://cplusplus.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-D2B48C?style=for-the-badge&logo=github&logoColor=228B22&color:696969)](https://docs.github.com/)
+[![Python](https://img.shields.io/badge/python-416449?style=for-the-badge&logo=python&logoColor=D2B48C&color:D2B48C)](https://www.python.org/)
+[![AWS](https://img.shields.io/badge/AWS_Cloud-416449?style=for-the-badge&logo=amazon-aws&&logoColor=D2B48C&color:D2B48C)](http://aws.amazon.com/)
+[![C++](https://img.shields.io/badge/C++-416449?style=for-the-badge&logo=c%2B%2B&&logoColor=D2B48C&color:D2B48C)](https://cplusplus.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-416449?style=for-the-badge&logo=github&logoColor=D2B48C&color:D2B48C)](https://docs.github.com/)
 <br>
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CientistaPy&theme=transparent&bg_color=D2B48C&border_color=228B22&show_icons=true&icon_color=228B22&title_color=228B22&text_color=696969)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CientistaPy&theme=transparent&bg_color=416449&border_color=FFF&show_icons=true&icon_color=D2B48C&title_color=D2B48C&text_color=D2B48C)
 <br>
 
 ### Repositorio em Destaque
 
-[![repo_card](https://github-readme-stats.vercel.app/api/pin/?username=CientistaPY&repo=desafios_dio&cache_seconds=86400&theme=transparent&bg_color=D2B48C&border_color=228B22&show_icons=true&icon_color=228B22&title_color=228B22&text_color=696969)](https://github.com/CientistaPY/desafios_dio.git)
+[![repo_card](https://github-readme-stats.vercel.app/api/pin/?username=CientistaPY&repo=desafios_dio&cache_seconds=86400&theme=transparent&bg_color=416449&border_color=FFF&show_icons=true&icon_color=D2B48C&title_color=D2B48C&text_color=D2B48C)](https://github.com/CientistaPY/desafios_dio.git)
 
 ### Meus Principais Artigos na DIO
 <table>
@@ -56,7 +56,7 @@ Obrigado por visitar o meu perfil!
       <td>Como Data Science & Python podem impulsionar a eficiência do Ifood?</td>
       <td align="center">
         <a href="https://www.dio.me/articles/como-data-science-python-podem-impulsionar-a-eficiencia-do-ifood">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/-Ler_Artigo-D2B48C?style=for-the-badge&logo=dtube&logoColor=228B22&color:696969">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/-Ler_Artigo-416449?style=for-the-badge&logo=dtube&logoColor=D2B48C&color:D2B48C">
         </a>
       </td>
     </tr>
