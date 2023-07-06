@@ -1,5 +1,5 @@
 <h1></h1>
-<img src="https://github.com/CientistaPY/CientistaPY/blob/main/Grey%20Minimalist%20Modern%20Social%20Media%20Specialist%20LinkedIn%20Banner%20(2).gif?raw=true"
+<img src="https://github.com/CientistaPY/CientistaPY/blob/main/propic.png?raw=true"
 <br>
 <img align="right"src="https://github.com/CientistaPY/CientistaPY/blob/main/PROGRAMER.png?raw=true"></a>
 <br>
