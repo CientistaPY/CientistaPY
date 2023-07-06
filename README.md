@@ -1,9 +1,7 @@
-<h1>
-    <a href="https://www.dio.me/">
-    <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <strong style="color:#00BFFF">Luis Pontes</strong>
-</h1>
-<img align="right" width="385px" src="https://github.com/CientistaPY/CientistaPY/blob/main/PROGRAMER.png?raw=true"></a>
+<h1></h1>
+<img src="https://github.com/CientistaPY/CientistaPY/blob/main/Grey%20Minimalist%20Modern%20Social%20Media%20Specialist%20LinkedIn%20Banner.gif?raw=true"
+<br>
+<img align="right"src="https://github.com/CientistaPY/CientistaPY/blob/main/PROGRAMER.png?raw=true"></a>
 <br>
 <p align="justify">Olá, sou Luís, um especialista em Tecnologia da Informação (TI) com sólida experiência técnica em instituições bancárias, atuando em ambientes de alta segurança e grandes valores nos últimos 12 anos.
 <br>
@@ -11,7 +9,6 @@
 Minha formação acadêmica inclui Eletrônica com ênfase em Automação (com registro no CFT) e o curso de Análise e Desenvolvimento de Software (em andamento). Tenho proficiência em Python e estou em processos de certificações AWS Cloud.
 <br>
 <br>
-
 Busco por oportunidades que me permitam combinar minha paixão por Eletrônica, Automação e Software. Caso estejas interessado em colaborações ou sinergias na área de TI, estou aberto a novas conexões. 
 <br>
 <br>
@@ -40,6 +37,10 @@ Obrigado por visitar o meu perfil!
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CientistaPy&theme=transparent&bg_color=D2B48C&border_color=228B22&show_icons=true&icon_color=228B22&title_color=228B22&text_color=696969)
 <br>
 
+### Repositorio em Destaque
+
+[![repo_card](https://github-readme-stats.vercel.app/api/pin/?username=CientistaPY&repo=desafios_dio&cache_seconds=86400&theme=transparent&bg_color=D2B48C&border_color=228B22&show_icons=true&icon_color=228B22&title_color=228B22&text_color=696969)](https://github.com/CientistaPY/desafios_dio.git)
+
 ### Meus Principais Artigos na DIO
 <table>
   <thead>
@@ -63,3 +64,6 @@ Obrigado por visitar o meu perfil!
       
   <tfoot></tfoot>
 </table>
+
+
+
