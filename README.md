@@ -30,11 +30,11 @@ Obrigado por visitar o meu perfil!
 [![Python](https://img.shields.io/badge/python-416449?style=for-the-badge&logo=python&logoColor=D2B48C&color:D2B48C)](https://www.python.org/)
 [![AWS](https://img.shields.io/badge/AWS_Cloud-416449?style=for-the-badge&logo=amazon-aws&&logoColor=D2B48C&color:D2B48C)](http://aws.amazon.com/)
 [![C++](https://img.shields.io/badge/C++-416449?style=for-the-badge&logo=c%2B%2B&&logoColor=D2B48C&color:D2B48C)](https://cplusplus.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-416449?style=for-the-badge&logo=github&logoColor=D2B48C&color:D2B48C)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-416449?style=for-the-badge&logo=git&logoColor=D2B48C&color:D2B48C)](https://docs.github.com/)
 <br>
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CientistaPy&theme=transparent&bg_color=416449&border_color=FFF&show_icons=true&icon_color=D2B48C&title_color=D2B48C&text_color=D2B48C)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CientistaPy&hide=issues&theme=transparent&bg_color=416449&border_color=FFF&show_icons=true&icon_color=D2B48C&title_color=D2B48C&text_color=D2B48C)
 <br>
 
 ### Repositorio em Destaque
