@@ -6,10 +6,10 @@
 <p align="justify">Olá, sou Luís, um especialista em Tecnologia da Informação (TI) com sólida experiência técnica em instituições bancárias, atuando em ambientes de alta segurança e grandes valores nos últimos 12 anos.
 <br>
 <br>
-Minha formação acadêmica inclui Eletrônica com ênfase em Automação (com registro no CFT) e o curso de Análise e Desenvolvimento de Software (em andamento). Tenho proficiência em Python e estou em processos de certificações AWS Cloud.
+Minha formação acadêmica inclui Eletrônica com ênfase em Automação (com registro no CFT) e Tecnólogo em  Análise e Desenvolvimento de Software (Superior Completo). Atualmente curso Engaharia de Software e estou prestes a concluir a PÓS-graduação em Automação Industrial.Tenho proficiência em c++, Python, NODE.js, SQL e estou em processos de re-certificação AWS Cloud Pravtitioner.
 <br>
 <br>
-Busco por oportunidades que me permitam combinar minha paixão por Eletrônica, Automação e Software. Caso estejas interessado em colaborações ou sinergias na área de TI, estou aberto a novas conexões. 
+Busco por oportunidades que me permitam combinar minha paixão por Instrumentação, Automação e Software. Caso estejas interessado em colaborações ou sinergias na área de TI, estou aberto a novas conexões. 
 <br>
 <br>
 Obrigado por visitar o meu perfil!
